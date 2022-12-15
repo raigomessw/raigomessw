@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<img align="center" alt="Rai-Img" src="https://penrose.law/wp-content/uploads/Code.jpg"/>
 
 - 🔭 I’m currently studying for app development!
 - 🌱 I’m currently learning C#/.NET!
