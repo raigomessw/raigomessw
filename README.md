@@ -1,4 +1,4 @@
-### Hi there 👋
+> ### Hi👋 Welcome to my profile😁
 <img align="center" alt="Rai-Img" src="https://penrose.law/wp-content/uploads/Code.jpg"/>
 
 - 🔭 I’m currently studying for app development!
@@ -23,6 +23,8 @@
   <img align="center" alt="Rai-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rai-Dart" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"/>
   <img align="center" alt="Rai-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Rai-MongoDB" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"/>
+  <img align="center" alt="Rai-Firebase" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg"/>
 </div>
 
 ##
