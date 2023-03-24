@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying for app development!
 - 🌱 I’m currently learning C#/.NET!
-- 👯 I’m looking for internship!
+- 👯 I’m looking for Job!
 - 🤔 I’m looking for help with private project
 - ⚡ Fun fact: Brazilian guy who love Basketball.
 
