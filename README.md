@@ -1,8 +1,8 @@
 > ### Hi👋 Welcome to my profile😁
 <img align="center" alt="Rai-Img" src="https://penrose.law/wp-content/uploads/Code.jpg"/>
 
-- 🔭 I’m currently studying for app development!
-- 🌱 I’m currently learning C#/.NET!
+- 🔭 I’m currently studying for App development!
+- 🌱 I’m currently learning Flutter!
 - 👯 I’m looking for Job!
 - 🤔 I’m looking for help with private project
 - ⚡ Fun fact: Brazilian guy who love Basketball.
