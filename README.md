@@ -2,7 +2,7 @@
 <img align="center" alt="Rai-Img" src="https://penrose.law/wp-content/uploads/Code.jpg"/>
 
 - 🔭 I’m currently studying for App development!
-- 🌱 I’m currently learning Flutter!
+- 🌱 I’m currently learning UX & UI Design!
 - 👯 I’m looking for Job!
 - 🤔 I’m looking for help with private project
 - ⚡ Fun fact: Brazilian guy who love Basketball.
